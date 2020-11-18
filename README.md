@@ -10,6 +10,7 @@
     <td>
         <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue"/>
     </td>
+    
     <td>
         <a href="https://gitlab.com/bwnyasse/flutter-testing-tutorial/commits/master" target="_blank">
             <img src="https://gitlab.com/bwnyasse/flutter-testing-tutorial/badges/master/pipeline.svg"/>
